@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "43def629103655f26ebff5965d62c605.jpg"
   name             : "Hezi(Hazel) Jiang"
   pronouns         : "she/her"  
   bio              : "Master’s student in Data Science at Harvard University | B.S. in Computer Science from UIUC"
