@@ -9,5 +9,3 @@ venue: 'KDD 2026 Workshop on epiDAMIK'
 paperurl: 'https://arxiv.org/abs/2606.08360'
 citation: 'Kong, L.*, Jiang, H.*, Ma, A., Wang, K., Kangaslahti, A., & Tambe, M. Generative Frontier Planning for Adaptive Peer-Referral Recruitment under Covariate-Dependent Arrivals. KDD 2026 Workshop epiDAMIK. (*Equal contribution)'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
