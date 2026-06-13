@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hezi(Hazel) Jiang"
+title                    : "Hezi Jiang"
 title_separator          : "-"
 name                     : &name "Hezi(Hazel) Jiang"
 description              : &description "Hezi(Hazel) Jiang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "43def629103655f26ebff5965d62c605.jpg"
-  name             : "Hezi(Hazel) Jiang"
+  name             : "Hezi Jiang (Hazel)"
+  Chines name      : "姜贺梓"
   pronouns         : "she/her"  
   bio              : "Master’s student in Data Science at Harvard University | B.S. in Computer Science from UIUC"
   location         : "Boston, MA"
