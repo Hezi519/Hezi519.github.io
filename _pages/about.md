@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me [CV]()"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Master’s student in Data Science at Harvard University and a member of [Teamcore](https://teamcore.seas.harvard.edu/), advised by [Prof. Milind Tambe](http://tleamcore.seas.harvard.edu/tambe/). My research lies at the intersection of reinforcement learning, generative AI, and decision-making under uncertainty. I am broadly interested in developing generative and learning-based methods for adaptive decision-making systems in complex, uncertain environments.
+I am a Master’s student in Data Science at Harvard University and a member of [Teamcore](https://teamcore.seas.harvard.edu/), advised by [Prof. Milind Tambe](http://teamcore.seas.harvard.edu/tambe/). My research lies at the intersection of reinforcement learning, generative AI, and decision-making under uncertainty. I am broadly interested in developing generative and learning-based methods for adaptive decision-making systems in complex, uncertain environments.
 
 Within this broader direction, my work focuses on three core challenges:
 
